@@ -1,0 +1,11 @@
+item,value
+Original rows,1000
+Duplicate rows removed,0
+Rows after cleaning,1000
+Missing/invalid values filled: gender,0
+Missing/invalid values filled: race/ethnicity,0
+Missing/invalid values filled: parental level of education,0
+Missing/invalid values filled: test preparation course,0
+Missing/invalid values filled: math score,0
+Missing/invalid values filled: reading score,0
+Missing/invalid values filled: writing score,0
